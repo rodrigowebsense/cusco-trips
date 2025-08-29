@@ -6,8 +6,8 @@ services:
     ports:
       - '54320:5432'
     environment:
-      POSTGRES_USER: postgres
-      POSTGRES_DB: neondb_owner # THIS MUST MATCH YOUR DB NAME IN .env
+      POSTGRES_USER: cusco_user
+      POSTGRES_DB: cusco_trips # THIS MUST MATCH YOUR DB NAME IN .env
       POSTGRES_HOST_AUTH_METHOD: trust
     env_file:
       - .env
