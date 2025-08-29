@@ -1,0 +1,1806 @@
+* {
+  box-sizing: border-box;
+}
+
+.desktopLightMode {
+  width: 1825px;
+  height: 4642px;
+
+  .divMinHScreen2 {
+    display: flex;
+    flex-direction: column;
+    align-items: flex-start;
+    background: #ffffff;
+    width: 1425px;
+
+    .icon6 {
+      width: 20px;
+      height: 20px;
+      overflow: hidden;
+    }
+
+    .icon5 {
+      flex-shrink: 0;
+      width: 20px;
+      height: 20px;
+      overflow: hidden;
+    }
+
+    .a {
+      margin: 0px 0px 0px 5px;
+      line-height: 24px;
+      letter-spacing: 0;
+      color: #666666;
+      font-family: Helvetica, "PingFang SC", "Hiragino Sans GB", "Microsoft YaHei", SimHei, Arial, sans-serif;
+      font-size: 16px;
+    }
+
+    .a51984123456 {
+      line-height: 20px;
+      letter-spacing: 0;
+      color: #ffffff;
+      font-family: Helvetica, "PingFang SC", "Hiragino Sans GB", "Microsoft YaHei", SimHei, Arial, sans-serif;
+      font-size: 14px;
+    }
+
+    .icon {
+      width: 16px;
+      height: 16px;
+      overflow: hidden;
+    }
+
+    .headerRelative {
+      display: flex;
+      flex-direction: column;
+      flex-shrink: 0;
+      align-items: flex-start;
+      align-self: stretch;
+
+      .divBgPrimary {
+        display: flex;
+        flex-shrink: 0;
+        align-items: center;
+        align-self: stretch;
+        justify-content: space-between;
+        background: #2c6d46;
+        padding: 8px 106px 8px 29px;
+        min-width: 1425px;
+        height: 36px;
+
+        .divHidden {
+          display: flex;
+          align-items: flex-start;
+          column-gap: 24px;
+          width: 558px;
+
+          .divFlex {
+            display: flex;
+            flex-shrink: 0;
+            align-items: center;
+            justify-content: space-between;
+            padding-right: 20px;
+            width: 150px;
+            min-width: 150px;
+            height: 20px;
+          }
+
+          .divFlex2 {
+            display: flex;
+            flex-shrink: 0;
+            align-items: center;
+            justify-content: space-between;
+            padding-right: 32px;
+            width: 226px;
+            min-width: 226px;
+            height: 20px;
+          }
+        }
+      }
+
+      .divFlex4 {
+        display: flex;
+        flex-shrink: 0;
+        align-items: center;
+        align-self: stretch;
+        justify-content: space-between;
+        border-width: 0px 0px 1px;
+        border-style: solid;
+        border-color: #d9d9d9;
+        background: #fffffff2;
+        padding: 9px 28px 9px 29px;
+        min-width: 1425px;
+        height: 81px;
+
+        .image {
+          width: 250px;
+          height: 62px;
+          overflow: hidden;
+        }
+
+        .divHidden2 {
+          display: flex;
+          align-items: center;
+          padding-right: 1px;
+
+          .linkTextSm {
+            display: flex;
+            align-items: flex-start;
+            border-width: 0px 0px 2px;
+            border-style: solid;
+            border-color: #2c6d46;
+            width: 34px;
+
+            .home {
+              line-height: 20px;
+              letter-spacing: 0;
+              color: #2c6d46;
+              font-family: Helvetica, "PingFang SC", "Hiragino Sans GB", "Microsoft YaHei", SimHei, Arial, sans-serif;
+              font-size: 14px;
+            }
+          }
+
+          .tours {
+            margin: 0px 0px 0px 32px;
+            line-height: 20px;
+            letter-spacing: 0;
+            color: #000000;
+            font-family: Helvetica, "PingFang SC", "Hiragino Sans GB", "Microsoft YaHei", SimHei, Arial, sans-serif;
+            font-size: 14px;
+          }
+
+          .contact {
+            margin: 0px 0px 0px 39px;
+            line-height: 20px;
+            letter-spacing: 0;
+            color: #000000;
+            font-family: Helvetica, "PingFang SC", "Hiragino Sans GB", "Microsoft YaHei", SimHei, Arial, sans-serif;
+            font-size: 14px;
+          }
+
+          .divFlex3 {
+            display: flex;
+            align-items: center;
+            margin-left: 42px;
+            width: 126px;
+
+            .eN {
+              margin: 0px 0px 0px 8px;
+              line-height: 20px;
+              letter-spacing: 0;
+              color: #2c6d46;
+              font-family: Helvetica, "PingFang SC", "Hiragino Sans GB", "Microsoft YaHei", SimHei, Arial, sans-serif;
+              font-size: 14px;
+            }
+
+            .eS {
+              margin: 0px 0px 0px 13px;
+              line-height: 20px;
+              letter-spacing: 0;
+              color: #666666;
+              font-family: Helvetica, "PingFang SC", "Hiragino Sans GB", "Microsoft YaHei", SimHei, Arial, sans-serif;
+              font-size: 14px;
+            }
+
+            .a2 {
+              margin: 0px 0px 0px 6px;
+              line-height: 24px;
+              letter-spacing: 0;
+              color: #666666;
+              font-family: Helvetica, "PingFang SC", "Hiragino Sans GB", "Microsoft YaHei", SimHei, Arial, sans-serif;
+              font-size: 16px;
+            }
+          }
+
+          .buttonInlineFlex {
+            display: flex;
+            align-items: center;
+            margin-left: 32px;
+            border-radius: 10px;
+            box-shadow: 0px 8px 30px 0px #0000001f, 0px 0px 0px 0px #00000000,
+              0px 0px 0px 0px #00000000;
+            background: #f9b83e;
+            padding: 8px 10px 8px 12px;
+
+            .bookNow {
+              line-height: 20px;
+              letter-spacing: 0;
+              color: #000000;
+              font-family: Helvetica, "PingFang SC", "Hiragino Sans GB", "Microsoft YaHei", SimHei, Arial, sans-serif;
+              font-size: 14px;
+              font-weight: 700;
+            }
+          }
+        }
+      }
+    }
+
+    .divMinHScreen {
+      display: flex;
+      flex-direction: column;
+      flex-shrink: 0;
+      align-items: center;
+      align-self: stretch;
+
+      .over15YearsOfExperie {
+        margin: -1px 0px 0px;
+        line-height: 28px;
+        letter-spacing: 0;
+        color: #666666;
+        font-family: Helvetica, "PingFang SC", "Hiragino Sans GB", "Microsoft YaHei", SimHei, Arial, sans-serif;
+        font-size: 20px;
+      }
+
+      .autoWrapper3 {
+        position: relative;
+        width: 1425px;
+        height: 900px;
+
+        .divContainer {
+          display: flex;
+          position: absolute;
+          bottom: -630px;
+          left: 0;
+          flex-direction: column;
+          align-items: flex-start;
+          background: #e6e6e64d;
+          padding: 80px 29px 803px;
+          width: 1425px;
+          height: 630px;
+          row-gap: 64px;
+
+          .divTextCenter {
+            display: flex;
+            flex-direction: column;
+            flex-shrink: 0;
+            align-items: flex-start;
+            align-self: stretch;
+            padding-right: 348px;
+            padding-left: 348px;
+            height: 112px;
+
+            .whyChooseCuscoTrips {
+              margin: -1px 0px 0px 88px;
+              line-height: 40px;
+              letter-spacing: 0;
+              color: #000000;
+              font-family: Helvetica, "PingFang SC", "Hiragino Sans GB", "Microsoft YaHei", SimHei, Arial, sans-serif;
+              font-size: 36px;
+              font-weight: 700;
+            }
+
+            .paragraphTextXl {
+              display: flex;
+              flex-direction: column;
+              align-items: flex-start;
+              align-self: stretch;
+              margin-top: 17px;
+              padding: 0px 181px 1px 36px;
+              height: 56px;
+
+              .adventuresThroughThe {
+                margin: 0px 0px 0px 6px;
+                line-height: 28px;
+                letter-spacing: 0;
+                color: #666666;
+                font-family: Helvetica, "PingFang SC", "Hiragino Sans GB", "Microsoft YaHei", SimHei, Arial, sans-serif;
+                font-size: 20px;
+              }
+            }
+          }
+
+          .divGrid {
+            display: flex;
+            flex-shrink: 0;
+            align-items: flex-start;
+            column-gap: 32px;
+            width: 1272px;
+
+            .cuscoDayTours {
+              margin: 16px 0px 0px 36px;
+              line-height: 28px;
+              letter-spacing: 0;
+              color: #000000;
+              font-family: Helvetica, "PingFang SC", "Hiragino Sans GB", "Microsoft YaHei", SimHei, Arial, sans-serif;
+              font-size: 20px;
+              font-weight: 700;
+            }
+
+            .icon3 {
+              margin-left: 102px;
+              width: 48px;
+              height: 48px;
+              overflow: hidden;
+            }
+
+            .experiencedLocalGuid {
+              line-height: 24px;
+              letter-spacing: 0;
+              color: #666666;
+              font-family: Helvetica, "PingFang SC", "Hiragino Sans GB", "Microsoft YaHei", SimHei, Arial, sans-serif;
+              font-size: 16px;
+            }
+
+            .cuscoMachuPicchu {
+              margin: -1px 0px 0px;
+              line-height: 28px;
+              letter-spacing: 0;
+              color: #000000;
+              font-family: Helvetica, "PingFang SC", "Hiragino Sans GB", "Microsoft YaHei", SimHei, Arial, sans-serif;
+              font-size: 20px;
+              font-weight: 700;
+            }
+
+            .icon2 {
+              width: 48px;
+              height: 48px;
+              overflow: hidden;
+            }
+
+            .divP8 {
+              display: flex;
+              flex-direction: column;
+              flex-shrink: 0;
+              align-items: center;
+              border: 1px solid #d9d9d9;
+              border-radius: 12px;
+              box-shadow: 0px 1px 2px 0px #0000000d, 0px 0px 0px 0px #00000000,
+                0px 0px 0px 0px #00000000;
+              padding: 32px;
+              background-image: linear-gradient(
+                180deg,
+                #ffffff 0%,
+                #f7f7f7 100%
+              );
+
+              .h3TextXl {
+                display: flex;
+                flex-direction: column;
+                align-items: flex-start;
+                align-self: stretch;
+                margin-top: 16px;
+                padding: 0px 24px 1px 6px;
+                height: 56px;
+
+                .packages {
+                  margin: 0px 0px 0px 72px;
+                  line-height: 28px;
+                  letter-spacing: 0;
+                  color: #000000;
+                  font-family: Helvetica, "PingFang SC", "Hiragino Sans GB", "Microsoft YaHei", SimHei, Arial, sans-serif;
+                  font-size: 20px;
+                  font-weight: 700;
+                }
+              }
+
+              .paragraphTextMutedFo {
+                display: flex;
+                flex-direction: column;
+                align-items: flex-start;
+                align-self: stretch;
+                margin-top: 12px;
+                padding-right: 62px;
+                padding-left: 11px;
+
+                .withDeepKnowledgeOf {
+                  margin: 0px 0px 0px 10px;
+                  line-height: 24px;
+                  letter-spacing: 0;
+                  color: #666666;
+                  font-family: Helvetica, "PingFang SC", "Hiragino Sans GB", "Microsoft YaHei", SimHei, Arial, sans-serif;
+                  font-size: 16px;
+                }
+
+                .andeanCultureAnd {
+                  margin: 0px 0px 0px 29px;
+                  line-height: 24px;
+                  letter-spacing: 0;
+                  color: #666666;
+                  font-family: Helvetica, "PingFang SC", "Hiragino Sans GB", "Microsoft YaHei", SimHei, Arial, sans-serif;
+                  font-size: 16px;
+                }
+
+                .history {
+                  margin: 0px 0px 0px 77px;
+                  line-height: 24px;
+                  letter-spacing: 0;
+                  color: #666666;
+                  font-family: Helvetica, "PingFang SC", "Hiragino Sans GB", "Microsoft YaHei", SimHei, Arial, sans-serif;
+                  font-size: 16px;
+                }
+              }
+            }
+
+            .divP82 {
+              display: flex;
+              flex-direction: column;
+              flex-shrink: 0;
+              align-items: center;
+              border: 1px solid #d9d9d9;
+              border-radius: 12px;
+              box-shadow: 0px 1px 2px 0px #0000000d, 0px 0px 0px 0px #00000000,
+                0px 0px 0px 0px #00000000;
+              padding: 32px 32px 80px;
+              background-image: linear-gradient(
+                180deg,
+                #ffffff 0%,
+                #f7f7f7 100%
+              );
+
+              .h3TextXl2 {
+                display: flex;
+                flex-direction: column;
+                align-items: flex-start;
+                align-self: stretch;
+                margin-top: 16px;
+                padding: 0px 70px 1px 42px;
+                height: 56px;
+
+                .adventures {
+                  margin: 0px 0px 0px 24px;
+                  line-height: 28px;
+                  letter-spacing: 0;
+                  color: #000000;
+                  font-family: Helvetica, "PingFang SC", "Hiragino Sans GB", "Microsoft YaHei", SimHei, Arial, sans-serif;
+                  font-size: 20px;
+                  font-weight: 700;
+                }
+              }
+
+              .paragraphTextMutedFo2 {
+                display: flex;
+                flex-direction: column;
+                align-items: flex-start;
+                align-self: stretch;
+                margin-top: 12px;
+                padding-right: 58px;
+                padding-left: 1px;
+              }
+            }
+
+            .divP83 {
+              display: flex;
+              flex-direction: column;
+              flex-shrink: 0;
+              align-items: flex-start;
+              border: 1px solid #d9d9d9;
+              border-radius: 12px;
+              box-shadow: 0px 1px 2px 0px #0000000d, 0px 0px 0px 0px #00000000,
+                0px 0px 0px 0px #00000000;
+              padding: 32px 32px 84px;
+              background-image: linear-gradient(
+                180deg,
+                #ffffff 0%,
+                #f7f7f7 100%
+              );
+
+              .paragraphTextMutedFo3 {
+                display: flex;
+                flex-direction: column;
+                align-items: flex-start;
+                align-self: stretch;
+                margin-top: 13px;
+                padding-right: 57px;
+                padding-left: 11px;
+
+                .withSmallGroupsFor {
+                  margin: 0px 0px 0px 14px;
+                  line-height: 24px;
+                  letter-spacing: 0;
+                  color: #666666;
+                  font-family: Helvetica, "PingFang SC", "Hiragino Sans GB", "Microsoft YaHei", SimHei, Arial, sans-serif;
+                  font-size: 16px;
+                }
+
+                .higherQuality {
+                  margin: 0px 0px 0px 43px;
+                  line-height: 24px;
+                  letter-spacing: 0;
+                  color: #666666;
+                  font-family: Helvetica, "PingFang SC", "Hiragino Sans GB", "Microsoft YaHei", SimHei, Arial, sans-serif;
+                  font-size: 16px;
+                }
+              }
+            }
+
+            .divP84 {
+              display: flex;
+              flex-direction: column;
+              flex-shrink: 0;
+              align-items: flex-start;
+              border: 1px solid #d9d9d9;
+              border-radius: 12px;
+              box-shadow: 0px 1px 2px 0px #0000000d, 0px 0px 0px 0px #00000000,
+                0px 0px 0px 0px #00000000;
+              padding: 32px 32px 84px;
+              background-image: linear-gradient(
+                180deg,
+                #ffffff 0%,
+                #f7f7f7 100%
+              );
+
+              .paragraphTextMutedFo4 {
+                display: flex;
+                flex-direction: column;
+                align-items: flex-start;
+                align-self: stretch;
+                margin-top: 13px;
+                padding-right: 59px;
+                padding-left: 6px;
+
+                .peru {
+                  margin: 0px 0px 0px 96px;
+                  line-height: 24px;
+                  letter-spacing: 0;
+                  color: #666666;
+                  font-family: Helvetica, "PingFang SC", "Hiragino Sans GB", "Microsoft YaHei", SimHei, Arial, sans-serif;
+                  font-size: 16px;
+                }
+              }
+            }
+          }
+        }
+
+        .divRelative {
+          display: flex;
+          position: absolute;
+          top: 0;
+          left: 0;
+          flex-direction: column;
+          align-items: flex-start;
+          padding: 280px 280px 280px 281px;
+          width: 1425px;
+          height: 900px;
+          background-image: linear-gradient(
+              122.28deg,
+              #000000b2 0%,
+              #2c6d4699 100%
+            ),
+            url(../image/meun6kxt-orq3lmw.png);
+          background-position: center;
+          background-size: cover;
+          background-repeat: no-repeat;
+
+          .h1Text5Xl {
+            display: flex;
+            flex-direction: column;
+            align-items: flex-start;
+            align-self: stretch;
+            padding-right: 192px;
+            padding-left: 130px;
+
+            .discoverThe {
+              margin: 0px 0px 0px 43px;
+              line-height: 72px;
+              letter-spacing: 0;
+              color: #ffffff;
+              font-family: Helvetica, "PingFang SC", "Hiragino Sans GB", "Microsoft YaHei", SimHei, Arial, sans-serif;
+              font-size: 72px;
+              font-weight: 700;
+            }
+
+            .peruvianAndes {
+              line-height: 72px;
+              letter-spacing: 0;
+              color: #f9b83e;
+              font-family: Helvetica, "PingFang SC", "Hiragino Sans GB", "Microsoft YaHei", SimHei, Arial, sans-serif;
+              font-size: 72px;
+              font-weight: 700;
+            }
+          }
+
+          .paragraphTextXl2 {
+            display: flex;
+            flex-direction: column;
+            align-items: flex-start;
+            align-self: stretch;
+            margin-top: 24px;
+            padding: 32px 195px 1px 36px;
+
+            .autoWrapper {
+              position: relative;
+              width: 633px;
+              height: 32px;
+
+              .empireExploreMachuPi {
+                position: absolute;
+                top: 0;
+                left: 0;
+                width: 633px;
+                height: 32px;
+                line-height: 32px;
+                letter-spacing: 0;
+                color: #ffffffe5;
+                font-family: Helvetica, "PingFang SC", "Hiragino Sans GB", "Microsoft YaHei", SimHei, Arial, sans-serif;
+                font-size: 24px;
+              }
+
+              .authenticAdventuresT {
+                position: absolute;
+                top: -32px;
+                left: -22px;
+                width: 619px;
+                height: 32px;
+                line-height: 32px;
+                letter-spacing: 0;
+                color: #ffffffe5;
+                font-family: Helvetica, "PingFang SC", "Hiragino Sans GB", "Microsoft YaHei", SimHei, Arial, sans-serif;
+                font-size: 24px;
+              }
+            }
+
+            .withOurSpecializedTe {
+              margin: 0px 0px 0px 209px;
+              line-height: 32px;
+              letter-spacing: 0;
+              color: #ffffffe5;
+              font-family: Helvetica, "PingFang SC", "Hiragino Sans GB", "Microsoft YaHei", SimHei, Arial, sans-serif;
+              font-size: 24px;
+            }
+          }
+
+          .autoWrapper2 {
+            display: flex;
+            align-items: center;
+            align-self: stretch;
+            justify-content: space-between;
+            margin-top: 32px;
+            padding-right: 235px;
+            padding-left: 0;
+
+            .divFlex5 {
+              display: flex;
+              align-items: center;
+              padding-left: 235px;
+              width: 378px;
+
+              .buttonInlineFlex2 {
+                display: flex;
+                flex-grow: 1;
+                align-items: center;
+                margin-right: -61px;
+                border-radius: 10px;
+                box-shadow: 0px 8px 30px 0px #0000001f,
+                  0px 0px 0px 0px #00000000, 0px 0px 0px 0px #00000000;
+                background: #f9b83e;
+                padding: 8px 52px 8px 32px;
+
+                .exploreTours {
+                  line-height: 28px;
+                  letter-spacing: 0;
+                  color: #000000;
+                  font-family: Helvetica, "PingFang SC", "Hiragino Sans GB", "Microsoft YaHei", SimHei, Arial, sans-serif;
+                  font-size: 18px;
+                  font-weight: 700;
+                }
+              }
+            }
+
+            .buttonInlineFlex3 {
+              display: flex;
+              align-items: center;
+              border: 1px solid #ffffff;
+              border-radius: 10px;
+              background: #ffffff;
+              padding: 7px 50px 7px 32px;
+
+              .contactUs {
+                line-height: 28px;
+                letter-spacing: 0;
+                color: #2c6d46;
+                font-family: Helvetica, "PingFang SC", "Hiragino Sans GB", "Microsoft YaHei", SimHei, Arial, sans-serif;
+                font-size: 18px;
+              }
+            }
+          }
+        }
+      }
+
+      .divContainer2 {
+        display: flex;
+        flex-direction: column;
+        align-items: flex-start;
+        align-self: stretch;
+        margin: 710px 13px 0px;
+        padding-right: 16px;
+        padding-left: 16px;
+
+        .divTextCenter2 {
+          display: flex;
+          flex-direction: column;
+          align-items: flex-start;
+          align-self: stretch;
+          padding-right: 348px;
+          padding-left: 348px;
+          height: 112px;
+
+          .featuredTours {
+            margin: -1px 0px 0px 185px;
+            line-height: 40px;
+            letter-spacing: 0;
+            color: #000000;
+            font-family: Helvetica, "PingFang SC", "Hiragino Sans GB", "Microsoft YaHei", SimHei, Arial, sans-serif;
+            font-size: 36px;
+            font-weight: 700;
+          }
+
+          .paragraphTextXl3 {
+            display: flex;
+            flex-direction: column;
+            align-items: flex-start;
+            align-self: stretch;
+            margin-top: 17px;
+            padding: 0px 174px 1px 54px;
+            height: 56px;
+
+            .spectacularDestinati {
+              margin: 0px 0px 0px 132px;
+              line-height: 28px;
+              letter-spacing: 0;
+              color: #666666;
+              font-family: Helvetica, "PingFang SC", "Hiragino Sans GB", "Microsoft YaHei", SimHei, Arial, sans-serif;
+              font-size: 20px;
+            }
+          }
+        }
+
+        .divGrid2 {
+          display: flex;
+          align-items: flex-start;
+          column-gap: 32px;
+          margin-top: 64px;
+          width: 1304px;
+          height: 522px;
+
+          .icon4 {
+            flex-shrink: 0;
+            width: 16px;
+            height: 16px;
+            overflow: hidden;
+          }
+
+          .vinicuncaRainbowMoun {
+            flex-shrink: 0;
+            line-height: 28px;
+            letter-spacing: 0;
+            color: #000000;
+            font-family: Helvetica, "PingFang SC", "Hiragino Sans GB", "Microsoft YaHei", SimHei, Arial, sans-serif;
+            font-size: 20px;
+            font-weight: 700;
+          }
+
+          .a2Days1Night {
+            line-height: 20px;
+            letter-spacing: 0;
+            color: #666666;
+            font-family: Helvetica, "PingFang SC", "Hiragino Sans GB", "Microsoft YaHei", SimHei, Arial, sans-serif;
+            font-size: 14px;
+          }
+
+          .divFlex7 {
+            display: flex;
+            flex-shrink: 0;
+            align-items: center;
+            justify-content: space-between;
+            padding-right: 27px;
+            width: 146px;
+            min-width: 146px;
+            height: 20px;
+          }
+
+          .divFlex6 {
+            display: flex;
+            flex-shrink: 0;
+            align-items: center;
+            justify-content: space-between;
+            padding-right: 38px;
+            width: 154px;
+            min-width: 154px;
+            height: 20px;
+          }
+
+          .buttonInlineFlex4 {
+            display: flex;
+            align-items: center;
+            border-radius: 10px;
+            box-shadow: 0px 8px 30px 0px #0000001f, 0px 0px 0px 0px #00000000,
+              0px 0px 0px 0px #00000000;
+            padding: 8px 36px 8px 12px;
+            background-image: linear-gradient(90deg, #2c6d46 0%, #3b915d 100%);
+          }
+
+          .divText2Xl {
+            display: flex;
+            align-items: flex-start;
+            padding-right: 21px;
+            padding-bottom: 1px;
+            height: 32px;
+
+            .a1502 {
+              margin: -1px 0px 0px;
+              line-height: 32px;
+              letter-spacing: 0;
+              color: #2c6d46;
+              font-family: Helvetica, "PingFang SC", "Hiragino Sans GB", "Microsoft YaHei", SimHei, Arial, sans-serif;
+              font-size: 24px;
+              font-weight: 700;
+            }
+
+            .aPeople {
+              margin: 8px 0px 0px 4px;
+              line-height: 20px;
+              letter-spacing: 0;
+              color: #666666;
+              font-family: Helvetica, "PingFang SC", "Hiragino Sans GB", "Microsoft YaHei", SimHei, Arial, sans-serif;
+              font-size: 14px;
+            }
+          }
+
+          .divFlex11 {
+            display: flex;
+            align-items: center;
+            align-self: stretch;
+            justify-content: space-between;
+            margin-top: 16px;
+            padding-right: 1px;
+            min-width: 385px;
+            height: 36px;
+          }
+
+          .imageWFull {
+            display: flex;
+            flex-shrink: 0;
+            align-items: flex-start;
+            align-self: stretch;
+            justify-content: space-between;
+            padding: 16px 16px 208px;
+            min-width: 433px;
+            overflow: hidden;
+
+            .spanPx3 {
+              display: flex;
+              align-items: center;
+              margin-top: 2px;
+              border-radius: 9999px;
+              background: #f3f4f6;
+              padding: 3px 19px 3px 12px;
+
+              .moderate {
+                line-height: 16px;
+                letter-spacing: 0;
+                color: #4b5563;
+                font-family: Helvetica, "PingFang SC", "Hiragino Sans GB", "Microsoft YaHei", SimHei, Arial, sans-serif;
+                font-size: 12px;
+              }
+            }
+
+            .divAbsolute {
+              display: flex;
+              align-items: center;
+              border-radius: 9999px;
+              background: #f9b83e;
+              padding: 4px 14px 4px 12px;
+
+              .a150 {
+                line-height: 24px;
+                letter-spacing: 0;
+                color: #000000;
+                font-family: Helvetica, "PingFang SC", "Hiragino Sans GB", "Microsoft YaHei", SimHei, Arial, sans-serif;
+                font-size: 16px;
+                font-weight: 700;
+              }
+            }
+          }
+
+          .divRoundedLg {
+            display: flex;
+            flex-direction: column;
+            flex-shrink: 0;
+            align-items: flex-start;
+            border: 1px solid #d9d9d9;
+            border-radius: 12px;
+            box-shadow: 0px 1px 2px 0px #0000000d, 0px 0px 0px 0px #00000000,
+              0px 0px 0px 0px #00000000;
+            padding-bottom: 1714px;
+            height: 492px;
+            overflow: hidden;
+            background-image: linear-gradient(180deg, #ffffff 0%, #f7f7f7 100%);
+
+            .divP6 {
+              display: flex;
+              flex-direction: column;
+              flex-shrink: 0;
+              align-items: flex-start;
+              align-self: stretch;
+              padding: 24px;
+
+              .h3TextXl3 {
+                display: flex;
+                flex-direction: column;
+                align-items: flex-start;
+                padding-right: 25px;
+                padding-bottom: 2156px;
+                width: 385px;
+                height: 56px;
+              }
+
+              .divFlex8 {
+                display: flex;
+                align-items: flex-start;
+                column-gap: 84px;
+                margin-top: 24px;
+                width: 301px;
+              }
+
+              .divFlex10 {
+                display: flex;
+                align-items: center;
+                align-self: stretch;
+                justify-content: space-between;
+                margin-top: 16px;
+                padding-right: 252px;
+                min-width: 385px;
+                height: 20px;
+
+                .divFlex9 {
+                  display: flex;
+                  align-items: flex-start;
+                  column-gap: 4px;
+                  padding-right: 38px;
+                  width: 80px;
+                }
+              }
+            }
+          }
+
+          .divRoundedLg2 {
+            display: flex;
+            flex-direction: column;
+            flex-shrink: 0;
+            align-items: flex-start;
+            border: 1px solid #d9d9d9;
+            border-radius: 12px;
+            box-shadow: 0px 1px 2px 0px #0000000d, 0px 0px 0px 0px #00000000,
+              0px 0px 0px 0px #00000000;
+            padding-bottom: 1714px;
+            height: 492px;
+            overflow: hidden;
+            background-image: linear-gradient(180deg, #ffffff 0%, #f7f7f7 100%);
+
+            .divP62 {
+              display: flex;
+              flex-direction: column;
+              flex-shrink: 0;
+              align-items: center;
+              align-self: stretch;
+              padding: 24px;
+
+              .h3TextXl4 {
+                display: flex;
+                flex-direction: column;
+                align-items: flex-start;
+                padding-right: 37px;
+                padding-bottom: 2156px;
+                width: 385px;
+                height: 56px;
+              }
+
+              .autoWrapper4 {
+                display: flex;
+                align-items: center;
+                align-self: stretch;
+                justify-content: space-between;
+                margin-top: 24px;
+                padding-right: 0;
+                padding-left: 0;
+
+                .divFlex12 {
+                  display: flex;
+                  align-items: center;
+                  justify-content: space-between;
+                  padding-right: 156px;
+                  width: 208px;
+                  min-width: 208px;
+                  height: 20px;
+                }
+
+                .divFlex13 {
+                  display: flex;
+                  align-items: center;
+                  justify-content: space-between;
+                  padding-right: 27px;
+                  width: 146px;
+                  min-width: 146px;
+                  height: 20px;
+                }
+              }
+
+              .divFlex15 {
+                display: flex;
+                align-items: center;
+                align-self: stretch;
+                justify-content: space-between;
+                margin: 16px 1px 0px;
+                padding-right: 252px;
+                min-width: 385px;
+                height: 20px;
+
+                .divFlex14 {
+                  display: flex;
+                  align-items: flex-start;
+                  column-gap: 4px;
+                  padding-right: 504px;
+                  width: 80px;
+                }
+              }
+
+              .divFlex16 {
+                display: flex;
+                align-items: center;
+                align-self: stretch;
+                justify-content: space-between;
+                margin: 16px 1px 0px;
+                padding-right: 1px;
+                min-width: 385px;
+                height: 36px;
+              }
+            }
+          }
+
+          .divRoundedLg3 {
+            display: flex;
+            flex-direction: column;
+            flex-shrink: 0;
+            align-items: flex-start;
+            border: 1px solid #d9d9d9;
+            border-radius: 12px;
+            box-shadow: 0px 1px 2px 0px #0000000d, 0px 0px 0px 0px #00000000,
+              0px 0px 0px 0px #00000000;
+            padding-bottom: 1686px;
+            height: 520px;
+            overflow: hidden;
+            background-image: linear-gradient(180deg, #ffffff 0%, #f7f7f7 100%);
+
+            .divP63 {
+              display: flex;
+              flex-direction: column;
+              flex-shrink: 0;
+              align-items: flex-start;
+              align-self: stretch;
+              padding: 24px;
+
+              .h3TextXl5 {
+                display: flex;
+                flex-direction: column;
+                align-items: flex-start;
+                padding-right: 13px;
+                padding-bottom: 2156px;
+                width: 385px;
+                height: 84px;
+              }
+
+              .divFlex17 {
+                display: flex;
+                align-items: flex-start;
+                column-gap: 84px;
+                margin-top: 24px;
+                padding-right: 841px;
+                width: 301px;
+              }
+
+              .divFlex19 {
+                display: flex;
+                align-items: center;
+                align-self: stretch;
+                justify-content: space-between;
+                margin-top: 16px;
+                padding-right: 252px;
+                min-width: 385px;
+                height: 20px;
+
+                .divFlex18 {
+                  display: flex;
+                  align-items: flex-start;
+                  column-gap: 4px;
+                  padding-right: 971px;
+                  width: 80px;
+                }
+              }
+            }
+          }
+        }
+
+        .buttonInlineFlex5 {
+          display: flex;
+          align-items: center;
+          align-self: stretch;
+          margin: 48px 593px 0px;
+          border-radius: 10px;
+          box-shadow: 0px 8px 30px 0px #0000001f, 0px 0px 0px 0px #00000000,
+            0px 0px 0px 0px #00000000;
+          padding: 12px 63px 12px 32px;
+          background-image: linear-gradient(90deg, #2c6d46 0%, #3b915d 100%);
+        }
+      }
+
+      .divGrid3 {
+        display: flex;
+        align-items: flex-start;
+        column-gap: 32px;
+        margin-top: 80px;
+        background: #2c6d46;
+        padding: 80px 0px 80px 29px;
+        width: 1425px;
+
+        .satisfiedTravelers {
+          margin: 8px 0px 0px;
+          line-height: 28px;
+          letter-spacing: 0;
+          color: #ffffffcc;
+          font-family: Helvetica, "PingFang SC", "Hiragino Sans GB", "Microsoft YaHei", SimHei, Arial, sans-serif;
+          font-size: 18px;
+        }
+
+        .divTextCenter3 {
+          display: flex;
+          flex-direction: column;
+          flex-shrink: 0;
+          align-items: flex-start;
+          padding-right: 100px;
+          padding-left: 56px;
+
+          .a10K {
+            margin: 0px 0px 0px 45px;
+            line-height: 48px;
+            letter-spacing: 0;
+            color: #f9b83e;
+            font-family: Helvetica, "PingFang SC", "Hiragino Sans GB", "Microsoft YaHei", SimHei, Arial, sans-serif;
+            font-size: 48px;
+            font-weight: 700;
+          }
+        }
+
+        .divTextCenter4 {
+          display: flex;
+          flex-direction: column;
+          flex-shrink: 0;
+          align-items: flex-start;
+          padding-right: 101px;
+          padding-left: 56px;
+
+          .a15 {
+            margin: 0px 0px 0px 59px;
+            line-height: 48px;
+            letter-spacing: 0;
+            color: #f9b83e;
+            font-family: Helvetica, "PingFang SC", "Hiragino Sans GB", "Microsoft YaHei", SimHei, Arial, sans-serif;
+            font-size: 48px;
+            font-weight: 700;
+          }
+        }
+
+        .divTextCenter5 {
+          display: flex;
+          flex-direction: column;
+          flex-shrink: 0;
+          align-items: flex-start;
+          padding-right: 118px;
+          padding-left: 94px;
+
+          .a50 {
+            margin: 0px 0px 0px 22px;
+            line-height: 48px;
+            letter-spacing: 0;
+            color: #f9b83e;
+            font-family: Helvetica, "PingFang SC", "Hiragino Sans GB", "Microsoft YaHei", SimHei, Arial, sans-serif;
+            font-size: 48px;
+            font-weight: 700;
+          }
+        }
+
+        .divTextCenter6 {
+          display: flex;
+          flex-direction: column;
+          flex-shrink: 0;
+          align-items: flex-start;
+          padding-right: 111px;
+          padding-left: 83px;
+
+          .a49 {
+            margin: 0px 0px 0px 32px;
+            line-height: 48px;
+            letter-spacing: 0;
+            color: #f9b83e;
+            font-family: Helvetica, "PingFang SC", "Hiragino Sans GB", "Microsoft YaHei", SimHei, Arial, sans-serif;
+            font-size: 48px;
+            font-weight: 700;
+          }
+        }
+      }
+
+      .divContainer3 {
+        display: flex;
+        flex-direction: column;
+        align-items: flex-start;
+        align-self: stretch;
+        background: #e6e6e64d;
+        padding: 80px 93px 80px 29px;
+
+        .whatOurTravelersSay {
+          margin: 0px 0px 0px 446px;
+          line-height: 40px;
+          letter-spacing: 0;
+          color: #000000;
+          font-family: Helvetica, "PingFang SC", "Hiragino Sans GB", "Microsoft YaHei", SimHei, Arial, sans-serif;
+          font-size: 36px;
+          font-weight: 700;
+        }
+
+        .divGrid4 {
+          display: flex;
+          align-items: flex-start;
+          column-gap: 32px;
+          margin-top: 65px;
+          width: 1304px;
+
+          .sOPauloBrazil {
+            flex-shrink: 0;
+            line-height: 20px;
+            letter-spacing: 0;
+            color: #666666;
+            font-family: Helvetica, "PingFang SC", "Hiragino Sans GB", "Microsoft YaHei", SimHei, Arial, sans-serif;
+            font-size: 14px;
+          }
+
+          .mariaSilva {
+            flex-shrink: 0;
+            line-height: 24px;
+            letter-spacing: 0;
+            color: #000000;
+            font-family: Helvetica, "PingFang SC", "Hiragino Sans GB", "Microsoft YaHei", SimHei, Arial, sans-serif;
+            font-size: 16px;
+            font-weight: 700;
+          }
+
+          .aTheSalkantayTrekWas {
+            flex-shrink: 0;
+            line-height: 24px;
+            letter-spacing: 0;
+            color: #000000;
+            font-family: Helvetica, "PingFang SC", "Hiragino Sans GB", "Microsoft YaHei", SimHei, Arial, sans-serif;
+            font-size: 16px;
+          }
+
+          .paragraphTextForegro {
+            display: flex;
+            flex-direction: column;
+            align-items: flex-start;
+            margin-top: 16px;
+            padding-bottom: 3062px;
+            width: 385px;
+            height: 72px;
+          }
+
+          .divRoundedLg4 {
+            display: flex;
+            flex-direction: column;
+            flex-shrink: 0;
+            align-items: center;
+            border: 1px solid #d9d9d9;
+            border-radius: 12px;
+            box-shadow: 0px 1px 2px 0px #0000000d, 0px 0px 0px 0px #00000000,
+              0px 0px 0px 0px #00000000;
+            padding-bottom: 24px;
+            overflow: hidden;
+            background-image: linear-gradient(180deg, #ffffff 0%, #f7f7f7 100%);
+
+            .divP64 {
+              display: flex;
+              flex-direction: column;
+              align-items: flex-start;
+              align-self: stretch;
+              padding: 24px 24px 4px;
+
+              .divFlex20 {
+                display: flex;
+                align-items: flex-start;
+                column-gap: 4px;
+                padding-right: 34px;
+                width: 100px;
+              }
+            }
+
+            .div {
+              display: flex;
+              flex-direction: column;
+              align-items: flex-start;
+              margin-top: 12px;
+              padding-right: 242px;
+              padding-bottom: 3154px;
+              width: 385px;
+              height: 44px;
+            }
+          }
+
+          .divRoundedLg5 {
+            display: flex;
+            flex-direction: column;
+            flex-shrink: 0;
+            align-items: center;
+            border: 1px solid #d9d9d9;
+            border-radius: 12px;
+            box-shadow: 0px 1px 2px 0px #0000000d, 0px 0px 0px 0px #00000000,
+              0px 0px 0px 0px #00000000;
+            padding-bottom: 24px;
+            overflow: hidden;
+            background-image: linear-gradient(180deg, #ffffff 0%, #f7f7f7 100%);
+
+            .divP65 {
+              display: flex;
+              flex-direction: column;
+              align-items: flex-start;
+              align-self: stretch;
+              padding: 24px 24px 4px;
+
+              .divFlex21 {
+                display: flex;
+                align-items: flex-start;
+                column-gap: 4px;
+                padding-right: 500px;
+                width: 100px;
+              }
+            }
+
+            .div2 {
+              display: flex;
+              flex-direction: column;
+              align-items: flex-start;
+              margin-top: 12px;
+              padding-right: 231px;
+              padding-bottom: 3154px;
+              width: 385px;
+              height: 44px;
+            }
+          }
+
+          .divRoundedLg6 {
+            display: flex;
+            flex-direction: column;
+            flex-shrink: 0;
+            align-items: center;
+            border: 1px solid #d9d9d9;
+            border-radius: 12px;
+            box-shadow: 0px 1px 2px 0px #0000000d, 0px 0px 0px 0px #00000000,
+              0px 0px 0px 0px #00000000;
+            padding-bottom: 48px;
+            overflow: hidden;
+            background-image: linear-gradient(180deg, #ffffff 0%, #f7f7f7 100%);
+
+            .divP66 {
+              display: flex;
+              flex-direction: column;
+              align-items: flex-start;
+              align-self: stretch;
+              padding: 24px 24px 4px;
+
+              .divFlex22 {
+                display: flex;
+                align-items: flex-start;
+                column-gap: 4px;
+                padding-right: 967px;
+                width: 100px;
+              }
+
+              .paragraphTextForegro2 {
+                display: flex;
+                flex-direction: column;
+                align-items: flex-start;
+                margin-top: 16px;
+                padding-bottom: 3062px;
+                width: 385px;
+                height: 48px;
+              }
+            }
+
+            .div3 {
+              display: flex;
+              flex-direction: column;
+              align-items: flex-start;
+              margin-top: 12px;
+              padding-right: 250px;
+              padding-bottom: 3130px;
+              width: 385px;
+              height: 44px;
+            }
+          }
+        }
+      }
+
+      .divContainer4 {
+        display: flex;
+        flex-direction: column;
+        align-items: flex-start;
+        align-self: stretch;
+        padding: 80px 377px 80px 29px;
+        background-image: linear-gradient(
+          107.01deg,
+          #2c6d46 0%,
+          #3b915d 50%,
+          #255b3a 100%
+        );
+
+        .readyForYourAndeanAd {
+          margin: 0px 0px 0px 338px;
+          line-height: 40px;
+          letter-spacing: 0;
+          color: #ffffff;
+          font-family: Helvetica, "PingFang SC", "Hiragino Sans GB", "Microsoft YaHei", SimHei, Arial, sans-serif;
+          font-size: 36px;
+          font-weight: 700;
+        }
+
+        .paragraphTextXl4 {
+          display: flex;
+          flex-direction: column;
+          align-items: flex-start;
+          align-self: stretch;
+          margin-top: 25px;
+          margin-left: 348px;
+          padding: 0px 175px 1px 6px;
+          height: 56px;
+
+          .contactUsAndPlanTheT {
+            margin: -1px 0px 0px;
+            line-height: 28px;
+            letter-spacing: 0;
+            color: #ffffffe5;
+            font-family: Helvetica, "PingFang SC", "Hiragino Sans GB", "Microsoft YaHei", SimHei, Arial, sans-serif;
+            font-size: 20px;
+          }
+
+          .sacredPathsOfThePeru {
+            margin: 0px 0px 0px 120px;
+            line-height: 28px;
+            letter-spacing: 0;
+            color: #ffffffe5;
+            font-family: Helvetica, "PingFang SC", "Hiragino Sans GB", "Microsoft YaHei", SimHei, Arial, sans-serif;
+            font-size: 20px;
+          }
+        }
+
+        .autoWrapper5 {
+          display: flex;
+          align-items: center;
+          align-self: stretch;
+          justify-content: space-between;
+          margin-top: 32px;
+          padding-right: 65px;
+          padding-left: 0;
+
+          .a519841234562 {
+            line-height: 24px;
+            letter-spacing: 0;
+            color: #ffffff;
+            font-family: Helvetica, "PingFang SC", "Hiragino Sans GB", "Microsoft YaHei", SimHei, Arial, sans-serif;
+            font-size: 16px;
+          }
+
+          .divFlex24 {
+            display: flex;
+            align-items: center;
+            padding-left: 413px;
+            width: 526px;
+
+            .divFlex23 {
+              display: flex;
+              flex-grow: 1;
+              align-items: center;
+              justify-content: space-between;
+              margin-right: -106px;
+              border-radius: 12px;
+              background: #ffffff1a;
+              padding: 12px 47px 12px 24px;
+              width: 220px;
+              min-width: 220px;
+              height: 48px;
+            }
+          }
+
+          .divFlex25 {
+            display: flex;
+            align-items: center;
+            justify-content: space-between;
+            border-radius: 12px;
+            background: #ffffff1a;
+            padding: 12px 60px 12px 24px;
+            width: 306px;
+            min-width: 306px;
+            height: 48px;
+          }
+        }
+
+        .buttonInlineFlex6 {
+          display: flex;
+          align-items: center;
+          align-self: stretch;
+          margin: 32px 234px 0px 582px;
+          border-radius: 10px;
+          background: #f9b83e;
+          padding: 8px 50px 8px 32px;
+
+          .requestQuote {
+            line-height: 28px;
+            letter-spacing: 0;
+            color: #000000;
+            font-family: Helvetica, "PingFang SC", "Hiragino Sans GB", "Microsoft YaHei", SimHei, Arial, sans-serif;
+            font-size: 18px;
+          }
+        }
+      }
+    }
+
+    .footerBgPrimary {
+      display: flex;
+      flex-direction: column;
+      flex-shrink: 0;
+      align-items: center;
+      align-self: stretch;
+      background: #2c6d46;
+      padding: 0px 13px 48px;
+
+      .divGrid5 {
+        display: flex;
+        position: relative;
+        align-items: flex-start;
+        column-gap: 32px;
+        padding: 48px 0px 5px 16px;
+        width: 1400px;
+        height: 257px;
+
+        .quickLinks {
+          flex-shrink: 0;
+          line-height: 28px;
+          letter-spacing: 0;
+          color: #ffffff;
+          font-family: Helvetica, "PingFang SC", "Hiragino Sans GB", "Microsoft YaHei", SimHei, Arial, sans-serif;
+          font-size: 18px;
+          font-weight: 700;
+        }
+
+        .expertsInAuthenticAd {
+          flex-shrink: 0;
+          line-height: 24px;
+          letter-spacing: 0;
+          color: #ffffffcc;
+          font-family: Helvetica, "PingFang SC", "Hiragino Sans GB", "Microsoft YaHei", SimHei, Arial, sans-serif;
+          font-size: 16px;
+        }
+
+        .div4 {
+          display: flex;
+          flex-direction: column;
+          flex-shrink: 0;
+          align-items: center;
+          padding-bottom: 4px;
+
+          .divFlex26 {
+            display: flex;
+            align-items: center;
+            align-self: stretch;
+            padding-right: 140px;
+            height: 32px;
+
+            .icon7 {
+              width: 32px;
+              height: 32px;
+              overflow: hidden;
+            }
+
+            .cuscoTrips {
+              margin: 0px 0px 0px 8px;
+              line-height: 32px;
+              letter-spacing: 0;
+              color: #ffffff;
+              font-family: Helvetica, "PingFang SC", "Hiragino Sans GB", "Microsoft YaHei", SimHei, Arial, sans-serif;
+              font-size: 24px;
+              font-weight: 700;
+            }
+          }
+
+          .paragraphTextPrimary {
+            display: flex;
+            flex-direction: column;
+            align-items: flex-start;
+            margin-top: 16px;
+            padding-right: 20px;
+            padding-bottom: 3831px;
+            width: 318px;
+            height: 120px;
+          }
+        }
+
+        .divFlex27 {
+          display: flex;
+          position: absolute;
+          top: 232px;
+          left: 16px;
+          flex-shrink: 0;
+          align-items: flex-start;
+          column-gap: 16px;
+          padding-right: 9px;
+          width: 60px;
+          height: 20px;
+        }
+
+        .div5 {
+          display: flex;
+          flex-direction: column;
+          flex-shrink: 0;
+          align-items: flex-start;
+          z-index: 1;
+          padding-bottom: 3687px;
+          height: 124px;
+          row-gap: 16px;
+
+          .listSpaceY2 {
+            display: flex;
+            flex-direction: column;
+            flex-shrink: 0;
+            align-items: flex-start;
+            padding-right: 232px;
+            padding-bottom: 3827px;
+            width: 318px;
+            height: 96px;
+            row-gap: 8px;
+          }
+        }
+
+        .div6 {
+          display: flex;
+          flex-direction: column;
+          flex-shrink: 0;
+          align-items: flex-start;
+          z-index: 2;
+          padding-bottom: 3687px;
+          height: 124px;
+          row-gap: 16px;
+
+          .listSpaceY22 {
+            display: flex;
+            flex-direction: column;
+            flex-shrink: 0;
+            align-items: flex-start;
+            padding-right: 126px;
+            padding-bottom: 3827px;
+            width: 318px;
+            height: 96px;
+            row-gap: 8px;
+          }
+        }
+
+        .div7 {
+          display: flex;
+          flex-direction: column;
+          flex-shrink: 0;
+          align-items: flex-start;
+          z-index: 3;
+          padding-bottom: 3687px;
+          height: 124px;
+          row-gap: 16px;
+
+          .divSpaceY3 {
+            display: flex;
+            flex-direction: column;
+            flex-shrink: 0;
+            align-items: flex-start;
+            align-self: stretch;
+            padding-bottom: 3827px;
+            height: 96px;
+            row-gap: 12px;
+
+            .a519841234563 {
+              line-height: 24px;
+              letter-spacing: 0;
+              color: #ffffffcc;
+              font-family: Helvetica, "PingFang SC", "Hiragino Sans GB", "Microsoft YaHei", SimHei, Arial, sans-serif;
+              font-size: 16px;
+            }
+
+            .divFlex28 {
+              display: flex;
+              flex-shrink: 0;
+              align-items: center;
+              align-self: stretch;
+
+              .icon8 {
+                width: 17px;
+                height: 20px;
+                overflow: hidden;
+              }
+
+              .spanTextPrimaryForeg {
+                display: flex;
+                flex-direction: column;
+                align-items: flex-start;
+                margin-left: 12px;
+                padding-right: 59px;
+                padding-bottom: 3827px;
+                width: 289px;
+                height: 48px;
+              }
+            }
+
+            .divFlex29 {
+              display: flex;
+              flex-shrink: 0;
+              align-items: center;
+              align-self: stretch;
+              justify-content: space-between;
+              padding-right: 165px;
+              min-width: 318px;
+              height: 24px;
+            }
+
+            .divFlex30 {
+              display: flex;
+              flex-shrink: 0;
+              align-items: center;
+              align-self: stretch;
+              justify-content: space-between;
+              padding-right: 92px;
+              min-width: 318px;
+              height: 24px;
+            }
+          }
+        }
+      }
+
+      .divFlex32 {
+        display: flex;
+        align-items: flex-start;
+        column-gap: 705px;
+        margin-top: 27px;
+        border-width: 1px 0px 0px;
+        border-style: solid;
+        border-color: #ffffff33;
+        padding-top: 32px;
+        width: 1368px;
+
+        .a2024CuscoTripsAllRi {
+          flex-shrink: 0;
+          line-height: 20px;
+          letter-spacing: 0;
+          color: #ffffffcc;
+          font-family: Helvetica, "PingFang SC", "Hiragino Sans GB", "Microsoft YaHei", SimHei, Arial, sans-serif;
+          font-size: 14px;
+        }
+
+        .divFlex31 {
+          display: flex;
+          flex-shrink: 0;
+          align-items: flex-start;
+          column-gap: 24px;
+          padding-right: 961px;
+          width: 238px;
+        }
+      }
+    }
+  }
+
+  .desktopLightMode1440 {
+    line-height: 48px;
+    letter-spacing: 0;
+    color: #ffffff;
+    font-family: Inter, "PingFang SC", "Hiragino Sans GB", "Microsoft YaHei", SimHei, Arial, Helvetica, sans-serif;
+    font-size: 40px;
+    font-weight: 700;
+  }
+
+  .httpsWwwCuscotripsCo {
+    line-height: 30px;
+    letter-spacing: 0;
+    color: #ffffff;
+    font-family: Inter, "PingFang SC", "Hiragino Sans GB", "Microsoft YaHei", SimHei, Arial, Helvetica, sans-serif;
+    font-size: 24px;
+    font-weight: 600;
+  }
+}
