@@ -68,6 +68,8 @@ export default buildConfig({
     pool: {
       connectionString: process.env.POSTGRES_URL || '',
     },
+    // Desabilita push mode em produção pois o banco já está configurado externamente
+    push: process.env.NODE_ENV !== 'production',
   }),
   collections: [Pages, Posts, Media, Categories, Tours, Users],
   localization: {
